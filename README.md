@@ -2,4 +2,4 @@ This is the google results page clone for project Odin. I will deconstruct and r
 
 From The Odin Project's [curriculum](http://www.theodinproject.com/web-development-101/html-css)
 
-Check Live Version [Google results page](http://heero.83.github.io/google-results-page)
+Check Live Version [live](http://heero83.github.io/google-results-page)
